@@ -1,0 +1,77 @@
+html, body {
+    height: 100%;
+}
+
+#firstRow {
+    display: flex;
+    flex-wrap: wrap;
+    height: 6%;
+}
+
+#secondRow {
+    display: flex;
+    flex-wrap: wrap;
+    height: 20%;
+}
+
+#thirdRow {
+    display: flex;
+    flex-wrap: wrap;
+    height: 30%;
+}
+
+#others {
+    display: flex;
+    flex-wrap: wrap;
+    width: 66%;
+}
+
+#green {
+    width: 80%;
+    background-color: #2ECC71;
+}
+
+#blue {
+    width: 20%;
+    background-color: #2980B9;
+}
+
+#red {
+    width: 34%;
+    background-color: #E74C3C;
+}
+
+#light_orange {
+    width: 50%;
+    height: 50%;
+    background-color: #E67E22;
+}
+
+#grey {
+    width: 50%;
+    height: 50%;
+    background-color: #95A5A6;
+}
+
+#yellow {
+    width: 33.33%;
+    height: 50%;
+    background-color: #F39C12;
+}
+
+#light_blue {
+    width: 33.33%;
+    height: 50%;
+    background-color: #16A085;
+}
+
+#dark_orange {
+    width: 33.33%;
+    height: 50%;
+    background-color: #D35400;
+}
+
+#dark_blue {
+    width: 100%;
+    background-color: #2C3E50;
+}
